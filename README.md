@@ -1,2 +1,2 @@
 # menu-hover-bottom
-Menu com efeito hover simples ao passar com o mouse sob o item. 
+Menu simples com efeito hover. Ao passar o mouse sobre o item uma barra inferior surge deslizando da esquerda para direita. 
